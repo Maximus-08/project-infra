@@ -744,6 +744,10 @@ label:
 
     - allowed_teams:
       - restricted-labels-kubevirt
+      label: help-wanted
+
+    - allowed_teams:
+      - restricted-labels-kubevirt
       label: approved-vep
 
 lgtm:
